@@ -1,3 +1,4 @@
+#solucan sorusu ve cevabı eklenecek
 n=1.0
 s = 0
 a = 0

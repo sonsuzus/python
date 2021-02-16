@@ -31,6 +31,8 @@ elif x//100==1:
 
 y=input()
 """
+#girilen sayıyı yazıya çeviren program. 
+# maksimum üç haneli sayılar için
 birler =["","bir","iki","üç","dört","beş","altı","yedi","sekiz","dokuz"]
 onlar =["","on","yirmi","otuz","kırk","elli","altmış","yetmiş","seksen","doksan"]
 sayi = input("Bir sayı giriniz:")

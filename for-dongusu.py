@@ -1,3 +1,4 @@
+#for döngüsü için basit örnek
 alfabe = "abcçdefgğhıijklmnoöprsştuüvyz"
 for harf in alfabe:
     print(harf,end = " - ")

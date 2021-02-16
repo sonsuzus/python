@@ -1,3 +1,4 @@
+#üç kenarı girildikten sonra üçgen olup olmadığı eğer üçgense nasıl bir üçgen olduğunu bulan program
 a = int(input("Birinci kenarı giriniz: "))
 b = int(input("İkinci kenarı giriniz: "))
 c = int(input("Üçüncü kenarı giriniz: "))

@@ -1,3 +1,4 @@
+# metinsel yazılımında harfleri farklı en büyük 3 haneli sayıyı bulur
 def yaziya(sayi):
     birler = ["","bir","iki","üç","dört","beş","altı","yedi","sekiz","dokuz"]
     onlar = ["","on","yirmi","otuz","kırk","elli","altmış","yetmiş","seksen","doksan"]

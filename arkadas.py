@@ -1,4 +1,7 @@
-arkadas = dict()
+# Arkadaş sayılar çarpanları toplamı birbirine eşit olan sayılara denir.
+# aşağıdaki program arkadaş sayıları (10000 e kadar isterseniz arttırabilirsiniz) bulur
+# sözlük, fonksiyon, döngü ve karşılaştırma ifadeleri kullanılmaktadır.
+arkadas = dict() 
 sayilar = [x for x in range(2,10000,2)]
 def bolenler(sayi):
     sinir = sayi//2 + 1
