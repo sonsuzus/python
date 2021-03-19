@@ -15,7 +15,7 @@ if a+b>c and a+c>b and b+c>a:
         print("Bu bir çeşitkenar üçgendir")
 
 else:
-    print("Bu bir üçgen değildir")
+    print("Bu bir üçgen değildir.")
 
 
 

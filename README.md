@@ -1,2 +1,3 @@
 # python
-Python Program
+Python Programlama çalışmaları
+Örnek sorular çözümleri
