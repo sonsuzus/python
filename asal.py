@@ -6,4 +6,4 @@ for sayi in range(2,1000):
         if sayi%bolen==0:
             asal = False
     if asal:
-        print(sayi, end = "-")
+        print(sayi, end = ", ")
